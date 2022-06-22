@@ -6,7 +6,7 @@ let moved = false;
 
 function setup() {
 	createCanvas(windowWidth, windowHeight);
-	oldImg = loadImage('assets/before_artemesia2.png');
+	oldImg = loadImage('assets/before_artemesia3.png');
 	origImg = loadImage('assets/after_artemesia2.png');
 	img = createGraphics(811, 786);
 	mk = createGraphics(811, 786);
